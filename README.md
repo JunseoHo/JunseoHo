@@ -6,6 +6,6 @@
 [![Blog_Badge](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://junseoho.github.io/)&nbsp;
 [![Blog_Badge](https://img.shields.io/badge/GitHub_Gist-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://gist.github.com/JunseoHo)&nbsp;
 
-### Achievment
+### ACHIEVMENT
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsho1029)](https://solved.ac/jsho1029/)
 
