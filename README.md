@@ -9,4 +9,5 @@
 
 ### ACHIEVEMENT
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsho1029)](https://solved.ac/jsho1029/)
+[![jho's 42 stats](https://badge.mediaplus.ma/colorfulwaves/jho)](https://github.com/oakoudad/badge42)
 
