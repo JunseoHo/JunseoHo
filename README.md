@@ -21,6 +21,7 @@ Thank you.
 
 ### 42Seoul
 - March, 2023 ~ Current
+- Operated By Innovation Academy
 
 # Credential
 
