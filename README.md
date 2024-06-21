@@ -3,20 +3,24 @@ I'm interested in real-time procedural content generation using generative AI fo
 
 Thank you.
 
-# Training
+
 
 # Project
 
 # Journal Article
 
-### 42Seoul
-- March, 2023 ~ Current
+
 
 # Diploma
 
 ### Bachelor of Engineering
 - Myongji University, College of ICT Convergence
 - March, 2018 ~ February 2024
+
+# Training
+
+### 42Seoul
+- March, 2023 ~ Current
 
 # Credential
 
