@@ -14,8 +14,8 @@ Thank you.
 # Diploma
 
 ### Bachelor of Engineering
-- Myongji University, College of ICT Convergence
 - March, 2018 ~ February 2024
+- Received from Myongji University, College of ICT Convergence
 
 # Training
 
