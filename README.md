@@ -5,6 +5,10 @@ Thank you.
 
 # Training
 
+# Project
+
+# Journal Article
+
 ### 42Seoul
 - March, 2023 ~ Current
 
