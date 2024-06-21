@@ -15,7 +15,7 @@ Thank you.
 
 ### Bachelor of Engineering
 - March, 2018 ~ Current
-- RMyongji University, College of ICT Convergence
+- Myongji University, College of ICT Convergence
 
 # Training
 
