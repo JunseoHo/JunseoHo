@@ -34,7 +34,7 @@ None yet
 
 ### École 42
 - March 11, 2023 ~ Current
-- Trained in the basics of computer science by developing middleware such as graphics engines, shells, and web server in C and C++.
+- Trained in the basics of computer science by developing middleware such as graphics engine, shell, and web server in C and C++.
 - Operated By Innovation Academy
 
 # Credential
