@@ -9,10 +9,11 @@ Thank you!
 
 ### Disaster Survival Story
 - This project is to develop Disaster response manual training service using the Claude model
-- Myongji Univ. Capacity Building Camp AWS Competition, 2nd place (Reward : 1,500,000 KRW)
+- Myongji Univ. Capacity Building Camp for AWS Competition, 2nd place (Reward : 1,500,000 KRW)
 - I used Spring boot, Python and AWS(Cloud9, EC2, CodePipeline, S3, Lambda, Amazon Bedrock).
 - My positions were a Backend developer, DevOps, Cloud solution architect.
 - My Rank was Team leader.
+- [Github repository](https://github.com/MJU-AWS-Hackathon-Team1)
 
 # Journal Article
 
