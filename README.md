@@ -27,9 +27,15 @@ None yet
 
 # Training
 
+### Myongji Univ. Advanced PCCP Coding Camp
+
+- July 1, 2024 ~ July 4, 2024
+- Trained in problem solving with data structure and algorithm.
+- Operated By INNOBIZ
+
 ### Myongji Univ. Capacity Building Camp for AWS
 
-- March 24, 2024 ~ March 26, 2024
+- June 24, 2024 ~ June 26, 2024
 - Trained in building infrastructure and deploying service using AWS.
 - Operated By Schoolbreeze
 
