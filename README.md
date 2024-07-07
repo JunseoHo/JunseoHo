@@ -8,7 +8,7 @@ Thank you!
 # Project
 
 ### Disaster Survival Story
-- This project is to develop Disaster response manual training web game service using the Claude model
+- This project is to develop web game for disaster response manual training using the Claude model
 - Myongji Univ. Capacity Building Camp for AWS Competition, 2nd place (Reward : 1,500,000 KRW)
 - I used Spring boot, Python and AWS(Cloud9, EC2, CodePipeline, S3, Lambda, Amazon Bedrock).
 - My positions were a Backend developer, DevOps, Cloud solution architect.
