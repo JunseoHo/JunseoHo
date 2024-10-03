@@ -8,7 +8,7 @@ Thank you!
 # Recent Activity
 |Date|Type|Description|
 |:-:|:-:|:-:|
-|Upcoming| Completion | DIVE 2024 in Busan| 
+|04 Oct 2024| Completion | DIVE 2024 in Busan| 
 |30 Sep 2024|Publication| A Comparative Study of User Concerns in Chatbot Services: Focusing on the Impact of Reflecting Persona|
 |10 Sep 2024| Certification| Information Processing Engineer|
 |31 Aug 2024|Publication| "Top Concerns of LLM-Based AI Native Games: Topic Modeling Approach" in the Journal of the Korea Game Society|
