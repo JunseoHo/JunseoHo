@@ -9,13 +9,13 @@ Thank you!
 # 📰 Papers
 
 ### A Comparative Study of User Concerns in Chatbot Services: Focusing on the Impact of Reflecting Persona
-* Date: Dec 2024
+* Date: Aug 2024 ~ Sep 2024
 * Journal: DataBase Research
 * Role: First Author
-* In Press
+* In Press (Dec 2024)
 
 ### Top Concerns of LLM-Based AI Native Games: Topic Modeling Approach
-* Date: Aug 2024
+* Date: Apr 2024 ~ Jul 2024
 * Journal: Journal of Korea Game Society
 * Role: First Author
 * [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003108053)
