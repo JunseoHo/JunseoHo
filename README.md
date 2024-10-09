@@ -20,6 +20,26 @@ Thank you!
 * Role: First Author
 * [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003108053)
 
+# 🚀 Project
+
+### Busan.zip
+* Date: Oct 2024
+* Role: Data Engineering, Machine learning
+
+### Nun-Ieum
+* Date: Jul 2024
+* Role: Android, Back-end, Cloud SA
+
+### Disaster Survival
+* Date: Jun 2024
+* Role: Back-end, Prompt Engineering, Cloud SA
+
+### Electronic Equipment Instance Segmentation Model
+* Date: Mar 2024 ~ Jun 2024
+* Role: Data Labeling, Data Enginnering
+
+### 
+
 # 🏆 Awards
 
 ### SURFTHON, Challenge the Code Wave
