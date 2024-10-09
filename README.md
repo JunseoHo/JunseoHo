@@ -5,6 +5,31 @@ If you reach out to me via gmail(junseoho1029@gmail.com), I can get back to you 
 
 Thank you!
 
+# Papers
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Title</th>
+    <th>Journal</th>
+    <th>Role</th>
+    <th>Note</th>
+  </tr>
+   <tr>
+    <td>2024-12</td>
+    <td>A Comparative Study of User Concerns in Chatbot Services: Focusing on the Impact of Reflecting Persona</td>
+    <td>DataBase Research</td>
+    <td>First author</td>
+    <td>In press</td>
+  </tr>
+  <tr>
+    <td>2024-08</td>
+    <td>Top Concerns of LLM-Based AI Native Games: Topic Modeling Approach</td>
+    <td>Journal of Korea Game Society</td>
+    <td>First author</td>
+    <td><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003108053">Link</a></td>
+  </tr>
+</table>
+
 # Recent Activity
 |Date|Type|Description|
 |:-:|:-:|:-:|
