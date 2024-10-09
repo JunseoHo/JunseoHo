@@ -1,4 +1,4 @@
-# Hello!
+# 👋 Hello!
 Hi, I'm Junseo Ho.<br>
 I'm very interested in the user experience of AI-native games (games where generative AI creates game content in real-time).
 
