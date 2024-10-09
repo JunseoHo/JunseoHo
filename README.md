@@ -42,23 +42,21 @@ Thank you!
 * Role: Data Labeling, Data Enginnering
 * [Link](https://github.com/JunseoHo/mju-sw-capstone-design-2024)
 
-### 
-
 # 🏆 Awards
 
 ### SURFTHON, Challenge the Code Wave
 * Date: Aug 2024
-* Grade: 4th Prize
+* Grade: 4th Prize (1,000,000 KRW)
 * Host: Ministry of SMEs and Startups(Korea)
 
 ### Capstone Project Portfolio Competition
 * Date: Aug 2024
-* Grade: Runner-Up
+* Grade: Runner-Up (500,000 KRW)
 * Host: Venture Startup Academy
 
 ### AWS Capacity Building Camp Competition
 * Date: Jun 2024
-* Grade: Runner-Up
+* Grade: Runner-Up (1,500,000 KRW)
 * Host: Venture Startup Academy
 
 # 🪪 Certification
