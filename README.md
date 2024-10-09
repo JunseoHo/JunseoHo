@@ -25,18 +25,22 @@ Thank you!
 ### Busan.zip
 * Date: Oct 2024
 * Role: Data Engineering, Machine learning
+* [Link](https://github.com/dive-2024-busanzip)
 
 ### Nun-Ieum
 * Date: Jul 2024
 * Role: Android, Back-end, Cloud SA
+* [Link](https://github.com/eyevoice)
 
 ### Disaster Survival
 * Date: Jun 2024
 * Role: Back-end, Prompt Engineering, Cloud SA
+* [Link](https://github.com/Have-a-good-life)
 
 ### Electronic Equipment Instance Segmentation Model
 * Date: Mar 2024 ~ Jun 2024
 * Role: Data Labeling, Data Enginnering
+* [Link](https://github.com/JunseoHo/mju-sw-capstone-design-2024)
 
 ### 
 
@@ -62,14 +66,17 @@ Thank you!
 ### Engineer Information Processing
 * Date: Sep 2024
 * Issuer: Ministry of Science and ICT(Korea)
+* ID: 24202020345Z
 
 ### PCCP Python3
 * Date: Jul 2024
 * Issuer: Grepp, Inc.
+* ID: 24070101Q1EFSB
 
 ### SQL Developer
 * Date: Jun 2024
 * Issuer: Korea Data Agency
+* ID: SQLD-053002432
 
 # 🎓 Education
 
