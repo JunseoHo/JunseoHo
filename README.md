@@ -6,7 +6,7 @@ If you reach out to me via gmail(junseoho1029@gmail.com), I can get back to you 
 
 Thank you!
 
-# 📰 Papers
+# 📰 Paper
 
 ### A Comparative Study of User Concerns in Chatbot Services: Focusing on the Impact of Reflecting Persona
 * Date: Aug 2024 ~ Sep 2024
