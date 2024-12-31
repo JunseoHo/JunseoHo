@@ -9,7 +9,7 @@ Deep learning engineer
 |Dec 2024|A Comparative Study of User Concerns in Chatbot Services|First Author|DataBase Research|
 |Apr 2024|Top Concerns of LLM-Based AI Native Games|First Author|Journal of Korea Game Society|
 
-# Awards
+# Award
 
 |Date|Title|Host|Description|
 |:--:|:--:|:--:|:--:|
@@ -26,7 +26,7 @@ Deep learning engineer
 |Jul 2024|PCCP Python3|Grepp, Inc.|Jul 2026|
 |Jun 2024|SQL Developer|Korea Data Agency|-|
 
-# 🎓 Education
+# Education
 
 |Period|Name|Degree|
 |:--:|:--:|:--:|
