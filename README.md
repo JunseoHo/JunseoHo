@@ -1,4 +1,4 @@
-Deep learning engineer
+Deep learning engineer (Jr.)
 
 # Career
 
