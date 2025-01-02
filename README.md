@@ -18,7 +18,7 @@
 |Oct 2024|The Minister of SMEs and Startups Award|Ministry of SMEs and Startups of the Republic of Korea|-|
 |Aug 2024|SURFTHON, Challenge the Code Wave|Korea Startup Forum|4th Prize|
 |Jul 2024|Capstone Project Portfolio Competition|Myongji University|Runner-Up|
-|Jul 2024|AWS Capacity Building Camp Competition|Myongji University|Runner-Up|
+|Jun 2024|AWS Capacity Building Camp Competition|Myongji University|Runner-Up|
 
 # Certification
 
