@@ -1,6 +1,8 @@
-Deep learning engineer (Jr.)
-
 # Career
+
+|Date|Name|Job|
+|:--:|:---|:--:|
+|Jan 2025 - Current|CTILab|AI Engineer
 
 # Paper
 
