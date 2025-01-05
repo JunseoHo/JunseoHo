@@ -30,10 +30,10 @@
 
 # Education
 
-|Period|Name|Degree|
-|:--:|:--:|:--:|
-|Mar 2023 - Dec 2024| École 42 | - |
-|Mar 2018 - Feb 2025| College of ICT Convergence, Myongji University | Bachelor of Engineering|
+|Period|Name|Degree|Grade|
+|:--:|:--:|:--:|:--:|
+|Mar 2023 - Dec 2024| École 42 | - |Learner|
+|Mar 2018 - Feb 2025| College of ICT Convergence, Myongji University | Bachelor of Engineering|4.05 / 4.5|
 
   
 
