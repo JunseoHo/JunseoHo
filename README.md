@@ -8,8 +8,8 @@
 
 |Date|Title|Role|Journal|
 |:--:|:---|:--:|:--:|
-|Dec 2024|A Comparative Study of User Concerns in Chatbot Services|First Author|DataBase Research|
-|Aug 2024|Top Concerns of LLM-Based AI Native Games|First Author|Journal of Korea Game Society|
+|Dec 2024|[A Comparative Study of User Concerns in Chatbot Services](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003159987)|First Author|DataBase Research|
+|Aug 2024|[Top Concerns of LLM-Based AI Native Games](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003108053)|First Author|Journal of Korea Game Society|
 
 # Award
 
