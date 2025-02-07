@@ -1,8 +1,10 @@
+Hello, I work as an AI researcher in the information security industry.
+
 # Career
 
 |Date|Name|Job|
 |:--:|:---|:--:|
-|Jan 2025 - Current|CTILab|AI Engineer
+|Jan 2025 - Current|CTILab|AI Researcher|
 
 # Paper
 
