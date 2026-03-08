@@ -8,6 +8,7 @@ Hello, I work as an MLOps and ML Engineer in the cyber security industry.
 
 # Project
 |Date|Title|Role|
+|:--:|:---|:--:|
 |Jul 2025 - Jan 2026|Intelligent Threat Analysis and Response System|Lead ML Engineer|
 |Feb 2025 - Dec 2025|Cyber Battlefield Management System|Lead ML Engineer for NDR system (Web)|
 
