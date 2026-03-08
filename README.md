@@ -1,10 +1,15 @@
-Hello, I work as an AI researcher in the cyber security industry.
+Hello, I work as an MLOps and ML Engineer in the cyber security industry.
 
 # Career
 
 |Date|Name|Job|
 |:--:|:---|:--:|
-|Jan 2025 - Current|CTILab|AI Enginner|
+|Jan 2025 - Current|CTILab|ML Ops & ML Engineer|
+
+# Project
+|Date|Title|Role|
+|Jul 2025 - Jan 2026|Intelligent Threat Analysis and Response System|Lead ML Engineer|
+|Feb 2025 - Dec 2025|Cyber Battlefield Management System|Lead ML Engineer for NDR system (Web)|
 
 # Paper
 
